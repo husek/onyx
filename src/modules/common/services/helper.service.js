@@ -1,6 +1,6 @@
 'use strict';
 
-require('underscore');  // exports _
+require('lodash');  // exports _
 require('underscore-string');  // exports _.string
 
 var dependencies = [ '$log' ],
